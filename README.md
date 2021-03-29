@@ -2,13 +2,15 @@
 
 ![](randomizer_logo.png)
 
-This is Warriorstar's branch of the excellent ZHM5Randomizer. It includes a
-handful of new randomization types, as well as the `CUSTOM` mode which allows
+**Now with HITMAN3 support.**
+
+This is Warriorstar's branch of pawREP's excellent ZHM5Randomizer. It includes
+a handful of new randomization types, as well as the `CUSTOM` mode which allows
 for modifying random generation via the configuration file.
 
 [Download][] the latest preview release, and install as described in the
 original README below. To configure `CUSTOM` mode, follow the instructions in
-`hitman_randomizer.toml`, which should have been unzipped in `HITMAN2/Retail`.
+`hitman_randomizer.toml`, which should have been unzipped in `HITMAN3/Retail`.
 
 [Download]: https://github.com/warriorstar-orion/ZHM5Randomizer/releases/latest
 
